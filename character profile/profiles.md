@@ -71,3 +71,28 @@ Aggressive, brilliant, and the tactical "CEO" of the duo. She is the one who wil
 
 *   **Kenji:** Ragged Tunic (Def 0), Iron-Oak Bokken (Hand-crafted, Durability 20/20).
 *   **Lyra:** Ragged Chemise (Def 0), "The Good Rock" (Projectile, 1-time use).
+
+
+The Antagonist: SABLE
+Player Name: Sable
+Real Name: Margaux Ihejirika
+Class Path: Blightweaver (Unique — Necromancer/Corruption Hybrid)
+Status: UNBOUND (like Kenji and Lyra — no Citadel safety net)
+Background: Margaux is a 28-year-old former biotech researcher who was laid off when her AI replacement outperformed her entire department in three weeks. She entered Omnia bitter, brilliant, and looking for a system she could control instead of being controlled by. She spawned solo in the Taiga two weeks before Kenji and Lyra, chose Unbound for the same reason they did — she refused to be a tenant.
+How She Found the Blight: While exploring deep corruption zones that other players avoided, Sable discovered something the druids never did — the Blight isn't just a threat. It's an unclaimed system. A dormant magical infrastructure left behind by a previous civilization, waiting for someone to authenticate as its operator. The repeating lattice, the compiler-like propagation — it was always designed to be used. It just needed a user.
+The Unique Opportunity: Sable found an ancient terminal — a Blight Nexus buried beneath the cave — and the system offered her a choice:
+[UNIQUE CLASS PATH DETECTED: BLIGHTWEAVER]
+[Description: Command the dormant corruption network. Rewrite. Reclaim. Rule.]
+[Warning: This path is incompatible with Grove allegiance.]
+[Warning: Accepting this path marks you as a CORRUPTION SOVEREIGN.]
+[Accept?]
+She accepted.
+Her Philosophy (The Jason Parallel): Sable isn't a villain who chose evil for fun. She has a worldview:
+
+The Grove druids are gatekeepers — they hoard nature magic behind trials and pacts, deciding who deserves power. Sound familiar? It's the same corporate gatekeeping from the real world, dressed in leaves instead of contracts.
+The Blight is open-source power. It doesn't ask you to prove your character. It doesn't judge your intent. It reformats everything equally. That's not corruption — that's democracy.
+She sees herself as a liberator. She's building a domain where power isn't locked behind someone else's moral test.
+
+Her Flaw: The Blight isn't neutral. It is rewriting her. Every day she holds the Nexus, her decision-making gets colder, her empathy thins, her "liberation" philosophy starts looking more like conquest. She doesn't fully realize she's being corrupted by her own system — the compiler doesn't just reformat the forest. It reformats the operator.
+Combat Style: She doesn't fight directly. She commands. Raised creatures, shaped terrain, corruption fields that debuff and drain. Her strongest assets are the raised druid leadership — powerful nature mages rewired to serve the Blight network. She's a raid boss who sends lieutenants first.
+Her Domain: The cave system is her base of operations. The deeper you go, the more structured and intentional the corruption becomes — hallways of shaped bone-coral, bioluminescent rot that functions as lighting, root-networks repurposed as communication lines. It looks less like a cave and more like someone's headquarters.
