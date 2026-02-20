@@ -106,11 +106,15 @@ They moved through the lobby in silence. Kenji mapped exits, chokepoints, lines 
 
 `Everything points to a center. A control room. A heart. Whatever's running this network, it lives at the bottom.`
 
-The wider passage opened into a gallery.
+The wider passage opened—and the lattice stuttered.
+
+For one half-second, the repeating geometry on the walls lost its rhythm. The curves hiccupped, fell out of phase, then snapped back into alignment like a projector catching a skipped frame. Kenji's Mark burned in the gap—a sharp double-pulse that didn't match the cave's frequency. Something upstream had flinched.
+
+`That wasn't natural degradation. That was a reaction. Something just noticed us noticing it.`
+
+He filed it and kept moving. The passage widened into a gallery.
 
 Kenji saw it and his feet stopped before his brain gave the order.
-
-A single lattice vein on the threshold hiccuped — one pulse out of tempo, a cursor-blink in living stone.
 
 The druids.
 
@@ -242,8 +246,6 @@ Lyra didn't cry.
 
 Kenji lowered the nodachi and let the silence stand with them like a third person who knew better than to speak.
 
-He thought about the engineers in the parking lot. The quiet way they'd said goodbye to each other. Not angry. Not dramatic. Just the stunned recognition of people who'd been running someone else's code without knowing it and had only realized when the runtime ended.
-
 `We freed him. We freed him by killing him. And the worst part is that's the mercy option.`
 
 A voice slid into the quiet.
@@ -288,7 +290,7 @@ The word didn't carry anger. It carried weight—the same tone she used when she
 
 Lyra's jaw clenched. She whispered, too quiet for the walls: "She thinks the Blight is a tool."
 
-Kenji looked at the alcoves. At the seven standing druids with green light trapped behind pale glass.
+Kenji looked at the alcoves. At the seven standing druids who still breathed but hadn't chosen to in weeks.
 
 `If it's a tool, those are the raw materials.`
 
@@ -310,7 +312,7 @@ He flinched when Kenji stepped into his sightline. His hand went for a sword tha
 
 The man's breathing was shallow and arrhythmic. Not wounded—just terrified at a frequency the body wasn't engineered to sustain for this long.
 
-"She didn't touch us," he whispered. His voice was hoarse—not from screaming, but from the specific exhaustion of spending hours not screaming so the walls wouldn't hear. "She didn't need to. The walls ate Cal. The floor took Taye. I ran. I've been running."
+"She didn't touch us," he whispered. His voice was hoarse—not from screaming, but from the exhaustion of spending hours not screaming so the walls wouldn't hear. "She didn't need to. The walls ate Cal. The floor took Taye. I ran. I've been running."
 
 `Cal and Taye. The two missing boot prints. Floor and wall. The cave's environmental defenses aren't random—they're targeted. She chose who to consume and who to leave breathing.`
 
@@ -402,7 +404,7 @@ Not frustration. Not despair. Assessment. The clean, honest arithmetic of a man 
 
 `Inside that cave: a player running a corruption network like an operating system, at least five remaining raised druids operating as remotely controlled combat units, environmental defenses that consumed two fully geared players without visible effort, and a control radius that extends to every surface, every root, every particle of air. Total combat effectiveness of our opposition: overwhelming. Total combat effectiveness of our team: one swordsman with a leaf blade and one Purifier whose strongest abilities are still in beta. The gap isn't a gap. It's a canyon.`
 
-The Citadel man had curled against the pine, eyes closed, face slack with the specific relief of someone who hadn't expected to see the sky again. He was already asleep—not rest, but the body's emergency shutdown when the adrenaline budget finally hits zero.
+The Citadel man had curled against the pine, eyes closed, face slack with the relief of someone who hadn't expected to see the sky again. He was already asleep—not rest, but the body's emergency shutdown when the adrenaline budget finally hits zero.
 
 Lyra stood at the frost-line, facing the cave. Her back was straight. Her hands were still. The amber in her eyes hadn't faded—it had settled, banked low, like embers deciding whether to cool or catch.
 

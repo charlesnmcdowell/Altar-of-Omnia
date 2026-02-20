@@ -10,11 +10,11 @@ His expression didn't change. It just stopped being an expression and became som
 
 They told the truth.
 
-Lyra stood in the center of the stone circle where the nine bark-cloth nameplates hung, and she matched names to what she'd seen. The names were gentle sounds—syllables that had been spoken with affection, braided into ceremony, carved with hope. Lyra made them ugly. She described the alcoves. The fused armor. The translucent skin. The green light trapped behind pale glass, pressing outward, pressing for something no one could give.
+Lyra stood in the center of the stone circle where the nine bark-cloth nameplates hung, and she matched names to what she'd seen. The names were gentle sounds—syllables that had been spoken with affection, braided into ceremony, carved with hope. Lyra made them ugly. She described the alcoves. The fused armor. The translucent skin. The way their eyes still moved behind lids that no longer closed—nature magic dimmed to a pilot light, burning under someone else's code.
 
 She named them the way a coroner names the dead—without decoration, without comfort, with the precision of someone who understood that facts were the only dignity left.
 
-The young druid put both hands on Eira's nameplate as if gripping a throat, and bent until his forehead touched the stone. He didn't make a sound. The sound he didn't make filled the Grove—louder than weeping, heavier than rage, the specific acoustic of a person refusing to collapse in front of others because the collapse would be final.
+The young druid put both hands on Eira's nameplate as if gripping a throat, and bent until his forehead touched the stone. He didn't make a sound. The sound he didn't make filled the Grove—louder than weeping, heavier than rage, the acoustic of a person refusing to collapse in front of others because the collapse would be final.
 
 The woman with ivy in her hair listened without interrupting. Her staff rested in the crook of her arm like it knew not to be held too tightly right now. When Lyra finished, the woman didn't speak. She walked to the specimen hollow and set her palm against the sap prism with the black-veined leaf inside—the same gesture a person makes touching a headstone because there is nothing better to touch and nothing worse than touching nothing.
 
@@ -42,7 +42,7 @@ He tapped the map where the first raised druid had fallen. The small radius arou
 
 "You cut corridors," he said. "I hold them. We move the clean line forward. She can't run her network through purified ground—it'd be like trying to route a signal through dead wire."
 
-The Citadel man stared at the dirt map with the specific disbelief of someone who had watched his friends get consumed by architecture and was now listening to two people in bark armor plan a counterattack.
+The Citadel man stared at the dirt map with the disbelief of someone who had watched his friends get consumed by architecture and was now listening to two people in bark armor plan a counterattack.
 
 "She'll rebuild behind you," the Grove woman said. She had approached the map without announcement—the way she moved, the Grove parted around her rather than the other way around. "You'll be crushed between regrowth and war."
 
@@ -70,7 +70,7 @@ The Grove woman didn't raise her voice. She didn't need to. The Grove's hum shif
 
 Silence held the circle like a fist.
 
-The lichen-haired elder exhaled through his nose—not agreement, but the specific surrender of a man who recognized an argument he couldn't win because it was correct.
+The lichen-haired elder exhaled through his nose—not agreement, but the surrender of a man who recognized an argument he couldn't win because it was correct.
 
 The ritual was not smoke and chant. It was breath and touch.
 
@@ -89,9 +89,6 @@ The Grove woman held out two seed-stones—different from the tether stones they
 [Warning: Domain holders share the Grove's fate]
 
 Kenji held the stone and didn't make a joke for once. The warmth climbed his wrist and settled into the sigil on his hand, and the Claimant Mark brightened—not burning, not warning, just acknowledging a promotion it hadn't expected.
-
-[Domain Timer: Temporary Amplification — ~24 in‑game hours]
-
 
 "So we went from tenants to landlords," he said anyway, quiet humor returning to his mouth like tide after the wave had spent itself. "With a mortgage that kills us if we default."
 
@@ -123,7 +120,7 @@ She paused.
 
 "You touched it," the woman said. "You absorbed it. You let it run through your hands and burned it down from the inside. That's not strength, child. That's a tolerance for proximity that I've spent twenty years learning to avoid."
 
-Lyra's hands didn't shake. But something behind her eyes shifted—not doubt, not fear, but the specific weight of understanding that a gift is sometimes another word for a burden nobody else volunteered for.
+Lyra's hands didn't shake. But something behind her eyes shifted—not doubt, not fear, but the weight of understanding that a gift is sometimes another word for a burden nobody else volunteered for.
 
 "The difference is not that you are better," the Grove woman continued. "It's that you will touch what I won't."
 
@@ -265,19 +262,19 @@ Not as a squirrel.
 
 He walked through the living arches in human form—the same round face, the same ruddy cheeks—but the warmth had left his eyes. His hands hung at his sides with the weight of someone carrying a report he didn't want to deliver.
 
-He found Kenji at the dirt map and crouched beside it.
+He found Kenji at the dirt map and crouched beside it. His human hands were broader than you'd expect from a man who spent most of his time as a rodent—thick-fingered, calloused, with soil ground into the creases like a gardener who'd stopped bothering to wash. He carried a leather pouch at his hip that clinked faintly when he moved, and when he caught Kenji looking, he covered it with one hand.
 
-"I know a back passage," he said. His voice was steady the way load-bearing walls are steady—functional, but you could hear the stress in the grain. "She hasn't fed it yet. It's narrow. Dark. It bypasses the lobby and the trophy hall and comes in lateral to the sanctum."
+"Acorn shells," he said, as though that explained everything. Then, quieter: "They were my lads' favorites."
+
+He didn't elaborate. He crouched beside the dirt map and pointed with a blunt finger.
+
+"I know a back passage. She hasn't fed it yet. It's narrow. Dark. It bypasses the lobby and the trophy hall and comes in lateral to the sanctum."
 
 Kenji's eyebrows rose. "How?"
 
-The druid's jaw tightened. "My lads died finding it."
+The druid's jaw tightened. "My scouts died finding it. They went in through the cracks because that's what small bodies do. Three came back. Then two. Then one. The last one made it to my palm before the venom—"
 
-He caught the word. Looked away. Tried to smile and produced something that had the shape of a smile without any of the architecture.
-
-"My lads," he repeated, softer. "They were scouts. Good ones. Quick. They went in through the cracks because that's what small bodies do. Three came back. Then two. Then one. The last one made it to my palm before the venom—"
-
-He stopped.
+He stopped. His hand found the pouch again.
 
 Kenji didn't push.
 
@@ -293,7 +290,13 @@ Departure felt like a community standing still so two people could move.
 
 The druids prepared what they had. Healing sap in root-cork vials. Antivenom reserves—Lyra had taught the healers her field synthesis, and they'd improved on it with Grove ingredients. The shadow-moss cloaks were enhanced with ward-thread that hummed faintly against Kenji's skin, like wearing a perimeter alarm instead of a jacket.
 
-The remaining druids formed a ritual circle and channeled energy into the seed-stones—a temporary amplification of Domain Authority that would burn bright for twenty-four in-game hours and then fade. A battery charge for the war they couldn't fight but could fund.
+The remaining druids formed a ritual circle and channeled energy into the seed-stones—a temporary amplification of Domain Authority that would burn bright and then fade. A battery charge for the war they couldn't fight but could fund.
+
+[Domain Authority: Temporary Amplification — Active]
+
+[Duration: 24:00:00]
+
+[Warning: Detection Signature Reduced While Charge Holds. Depletion Restores Full Broadcast.]
 
 The Grove woman held out the last thing they had to give that wasn't their lives.
 

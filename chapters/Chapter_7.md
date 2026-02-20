@@ -26,7 +26,7 @@ His Claimant Mark pulsed—warm, insistent—but the Domain Authority seed-stone
 
 They moved through the back passage in silence. The squirrel druid led by touch and memory—counting steps, testing walls, pausing at junctions where his dead scouts had left marks so small only someone who knew squirrel claw-language could read them. Kenji watched him work and felt a respect that had nothing to do with combat and everything to do with a man honoring the dead by using what they'd died to learn.
 
-The service passage merged with a secondary corridor. The lattice-light returned—thin at first, then thickening as they moved toward the cave's active zones. The hum strengthened. The air took on that metallic tang.
+The service passage merged with a secondary corridor. The lattice-light returned—thin at first, then thickening as they moved toward the cave's active zones. The hum strengthened. The air shifted—copper and ozone, sharp as storm air in a machine shop. Not the organic rot of the outer caves. Something manufactured. Engineered.
 
 Lyra knelt at the first chokepoint where the lattice reclaimed the walls.
 
@@ -36,7 +36,7 @@ Not a flood. A ring.
 
 She placed her palms on the stone and the Verdant Purge deployed—controlled, measured, a scalpel drawing a clean circle on a contaminated surface. The wall's black veins peeled like film pulled from glass, the repeating lattice pattern losing its conviction centimeter by centimeter as the purification radius expanded. The pale geometry flickered, fought, and then died back, leaving raw stone behind—stone that looked startled to be naked, like it had forgotten what it looked like before the corruption dressed it.
 
-The air inside the ring changed. At 80%, Kenji felt it at his molars—a pressure differential, like stepping from a room with bad ventilation into one with an open window. The hum in his head stepped back one degree. The background static that had been grinding at his perception since they entered thinned.
+The air inside the ring changed. At 80%, Kenji felt it at his molars—a pressure differential, like stepping from a room with bad ventilation into one with an open window. The background static that had been grinding at his perception since they entered thinned to almost nothing.
 
 [Hearthward Radius: Active — Corruption Suppressed Within Zone]
 
@@ -62,7 +62,19 @@ Both creatures fell. The purified ring held.
 
 They moved ring by ring.
 
-Lyra braced, drew a green circle into the world, and handed Kenji good ground to fight on. He worked the edge of each circle like a threshing floor—parry chaining into Riposte, into Tempo, into another parry. The pattern was mechanical and elegant, each repetition teaching him something his body already knew but his brain was still writing down.
+The fifth ring almost killed them.
+
+Lyra's palms hit the stone and the purge deployed—same as before, same measured radius—but the lattice beneath this section was thicker, layered, reinforced in a way the previous zones hadn't been. The corruption didn't peel. It pushed back. The green filament in Lyra's hands flickered, and for three seconds the boundary between purified and blighted ground shuddered like a membrane about to tear.
+
+Kenji felt it in the floor—the Rootline connection stuttering, his footing going uncertain as the ground beneath him couldn't decide which system it belonged to.
+
+"Lyra—"
+
+"I see it." Her voice came through her teeth. She narrowed the braid further—thinner, hotter, more precise—and punched through the reinforced layer like a needle through scarred tissue. The ring stabilized. The lattice snapped back. Clean stone emerged, breathing for the first time in weeks.
+
+Lyra's forehead was slick. She didn't mention it.
+
+After that, Lyra braced, drew a green circle into the world, and handed Kenji good ground to fight on. He worked the edge of each circle like a threshing floor—parry chaining into Riposte, into Tempo, into another parry. The pattern was mechanical and elegant, each repetition teaching him something his body already knew but his brain was still writing down.
 
 The system doesn't care how sharp your sword is. It cares whether you mean it.
 
@@ -134,11 +146,11 @@ The bone-thorn druid froze. The pale lattice under his skin flared and then fold
 
 He fell to his knees. His eyes went green for one inhale. Full. Clear. Present.
 
-"…Tell—"
+He didn't speak. He reached—one hand lifting from the floor, fingers uncurling toward Lyra's face, not grasping but offering. The gesture of someone returning something they'd been holding too long.
 
-He collapsed. Whatever the word was, it stayed behind his teeth. The green faded, and the body went still in a way that was permanent and total.
+His hand dropped. The green faded. The body went still in a way that was permanent and total.
 
-Lyra held his shoulders. She didn't ask what the word had been. Some words are only for the person who almost says them.
+Lyra caught his hand before it hit the stone. She held it for three breaths, then set it down gently, the way you close a book you aren't ready to be finished with.
 
 The squirrel druid stepped over them both and set the man's head on the floor with a care that made Kenji's throat hurt—the gentle precision of someone who had held too many small bodies and learned that the size of the grief has nothing to do with the size of the loss.
 

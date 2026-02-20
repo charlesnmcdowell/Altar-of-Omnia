@@ -134,13 +134,21 @@ She split the thread.
 
 The Verdant line that had been a cleansing became a suture. Instead of burning the Nexus to ash—the straightforward option, the efficient option, the option that would have been categorized as "justified" by any audit of the facts—she traced the tether from Sable into the corruption heart and cut the bond not at the center but at the anchor points, one by one. Disconnecting instead of destroying. Rewiring each connection into a dead end, letting the Nexus lose its operator without the operator losing herself.
 
-She nearly lost it once. The lattice surged, the suture buckled, and Lyra's breath hitched—the *Overreach* warning screaming in her skull. Kenji felt the shift the way a tuning fork feels a note and slammed a Rootline Riposte through the purified floor. The subsurface pulse staggered a bone-coral arm mid-swing and bought her the half-second she needed to set the stitch.
-
 It was surgery, not exorcism.
 
 It was an act of faith so arrogant it counted as prayer.
 
 Kenji held the room together. Bone-coral spasmed around him—dying architecture throwing final tantrums, the lattice losing coherence one node at a time. He parried a spike. Redirected a root-lash. Took a bone-coral fragment across the forearm that opened a cut he'd feel for days. The 80% feedback turned the sanctum's death throes into a sensory assault that his nervous system processed as "everything is wrong simultaneously."
+
+Then the purified ground beneath Lyra flickered.
+
+A corruption tendril had burrowed under the ring—deep, patient, bypassing the surface cleanse. Kenji felt it through the Rootline connection before he saw it: a wrongness in the floor's frequency, a note going sour beneath his boots.
+
+He drove the nodachi into the stone at Lyra's feet.
+
+Not a strike. A conduit. The blade sank into purified earth and the Rootline Riposte fired downward—not at an enemy but *through* the ground itself, the subsurface pulse chasing the corruption tendril back to its source and burning it out at the root. The floor solidified. The ring held.
+
+Lyra's breath steadied by a fraction. She didn't look, but her left hand shifted a centimeter closer to where his blade anchored the ground, drawing stability from it like a surgeon bracing against a table that someone had almost kicked.
 
 He held. Not because he was strong enough. Because Lyra wasn't done, and Lyra not being done was the only variable that mattered.
 
@@ -194,7 +202,7 @@ Lyra didn't answer right away. She looked at the ruined Nexus—the dead heart o
 
 "Because the system I swore to doesn't get to choose my character," she said. "I do."
 
-Sable's mouth twitched—not humor, not defiance. Something closer to grief, the specific sadness of a person recognizing that the thing they'd been using as an identity had been a parasite, and the person underneath was smaller, quieter, and less certain of anything.
+Sable's mouth twitched—not humor, not defiance. Something closer to grief, the sadness of a person recognizing that the thing they'd been using as an identity had been a parasite, and the person underneath was smaller, quieter, and less certain of anything.
 
 "I thought the Grove wanted servants," Sable said.
 
@@ -218,7 +226,7 @@ Kenji crouched beside him.
 
 "You held."
 
-The druid managed a smile that looked like it cost him. "My lads would've fit through that gap without a problem. I always was too fat for espionage."
+The druid managed a smile that looked like it cost him. He patted the broken staff like an old friend, then winced. "Next time, I'm sending someone smaller. Oh wait—I already tried that." The humor cracked at the edges, but it held. "I always was too fat for espionage."
 
 Kenji laughed—genuine, short, the kind that hurts when your ribs are cracked and you don't care because the alternative is not laughing and that's worse.
 
@@ -246,7 +254,7 @@ Lyra's voice was quiet. "Freed."
 
 He closed his eyes. The bark-cloth strip—a replacement nameplate, Kenji realized, prepared for the worst—crumpled in his fist. Not because the answer was bad. Because the answer was final, and finality is the heaviest thing a person can hold.
 
-The Citadel man was there too—rested, fed, still wearing his dead armor like he didn't know what else to put on. He stood at the edge of the gathering, not part of the community but no longer a stranger, occupying the specific space of someone who had been rescued and was still deciding what that obligated him to feel.
+The Citadel man was there too—rested, fed, still wearing his dead armor like he didn't know what else to put on. He stood at the edge of the gathering, not part of the community but no longer a stranger. When the young druid crumpled the bark-cloth strip, the Citadel man crossed the gap between them—uninvited, unasked—and set a hand on the young druid's shoulder. It was clumsy. It was the wrong gesture from the wrong person. The young druid looked up, startled, and the Citadel man said nothing because he had nothing useful to say. He just kept his hand there. The young druid didn't shrug it off.
 
 The ceremony did not feel like victory so much as relief wearing its best clothes.
 
@@ -268,7 +276,7 @@ The lichen-haired elder huffed—not disagreement, but the noise a man makes whe
 
 The last night they sat with their backs against the Heart-Tree.
 
-The bark was warm—not from magic, but from the specific heat that living things generate when they're healthy and unafraid. The air smelled like sap and clean soil and the particular fragrance of a forest that had spent weeks under occupation and was rediscovering what its own perfume smelled like.
+The bark was warm—not from magic, but from the heat that living things generate when they're healthy and unafraid. The air smelled like sap and clean soil and the particular fragrance of a forest that had spent weeks under occupation and was rediscovering what its own perfume smelled like.
 
 No UI notifications. No hum. No static. No lecture.
 
