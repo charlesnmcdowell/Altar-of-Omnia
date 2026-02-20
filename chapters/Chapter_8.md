@@ -134,6 +134,8 @@ She split the thread.
 
 The Verdant line that had been a cleansing became a suture. Instead of burning the Nexus to ash—the straightforward option, the efficient option, the option that would have been categorized as "justified" by any audit of the facts—she traced the tether from Sable into the corruption heart and cut the bond not at the center but at the anchor points, one by one. Disconnecting instead of destroying. Rewiring each connection into a dead end, letting the Nexus lose its operator without the operator losing herself.
 
+She nearly lost it once. The lattice surged, the suture buckled, and Lyra's breath hitched—the *Overreach* warning screaming in her skull. Kenji felt the shift the way a tuning fork feels a note and slammed a Rootline Riposte through the purified floor. The subsurface pulse staggered a bone-coral arm mid-swing and bought her the half-second she needed to set the stitch.
+
 It was surgery, not exorcism.
 
 It was an act of faith so arrogant it counted as prayer.

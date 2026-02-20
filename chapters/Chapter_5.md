@@ -110,6 +110,8 @@ The wider passage opened into a gallery.
 
 Kenji saw it and his feet stopped before his brain gave the order.
 
+A single lattice vein on the threshold hiccuped — one pulse out of tempo, a cursor-blink in living stone.
+
 The druids.
 
 They stood in alcoves carved from the wall—nine recesses, seven occupied. Arms at their sides. Eyes open. Breathing.

@@ -90,6 +90,9 @@ The Grove woman held out two seed-stones—different from the tether stones they
 
 Kenji held the stone and didn't make a joke for once. The warmth climbed his wrist and settled into the sigil on his hand, and the Claimant Mark brightened—not burning, not warning, just acknowledging a promotion it hadn't expected.
 
+[Domain Timer: Temporary Amplification — ~24 in‑game hours]
+
+
 "So we went from tenants to landlords," he said anyway, quiet humor returning to his mouth like tide after the wave had spent itself. "With a mortgage that kills us if we default."
 
 `Domain Authority. In the real world, that's a title on a door and an inbox full of complaints. In Omnia, it's a contract signed in sap that says: if the Grove dies, you die. If the ward breaks, you break. You don't just own this place—this place owns you back.`
