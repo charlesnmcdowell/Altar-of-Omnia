@@ -1,12 +1,6 @@
-edit notes in []
-[title change to by the Throat]
-# Chapter 5: The Throat of It
-
+# Chapter 5: By the Throat
 
 The descent simplified everything into two facts: the air had a heartbeat, and it was not theirs.
-
-[DON'T LIKE THE FREQUENCY HUM CAUSING PAIN OR TH FOCUS ON HIS TEETH. Instead have lyra notice the  corruption attempt to clean it, draw attention of similar monsters like in chapter 3. They have to flee and come up with a different strategy. kenji convices lyra to hold off on clensing until after they found the missing groove leadership. ]
-The cave swallowed sound the way a throat swallows food—the Taiga's hiss, the wind, their own footsteps, all pressed flat into a single low-frequency hum that Kenji felt less in his ears than in the marrow behind his teeth. At 80% sensitivity, the vibration registered like a tuning fork held to bone. Every step deeper tightened the resonance until his molars ached with sympathetic frequency and the hum became a physical thing—a pressure against the inside of his skull, patient and curious.
 
 [Status: CLAIMANT MARK (Grovebound) — Active]
 
@@ -30,7 +24,7 @@ Veins of pale geometry threaded the stone in repeating arcs—the same pattern K
 
 He filed the observation and kept moving.
 
-The corridor narrowed. The hum tightened. Kenji adjusted the leafblade nodachi on his shoulder and felt the weapon respond—a thin, clean counter-note, like it objected to the cave's frequency and wanted the record to show it.
+The corridor narrowed. Kenji adjusted the leafblade nodachi on his shoulder and felt the weapon respond—a thin, clean counter-note, like it objected to the cave's frequency and wanted the record to show it.
 
 Lyra stopped.
 
@@ -51,9 +45,6 @@ Then the spacing changed. Shorter. Erratic.
 Then one set of prints ended.
 
 Not faded. Not scuffed. Just stopped. Mid-stride, left foot planted, right foot never arriving. The stone around the last print was scored with hairline fractures in a starburst pattern, as if something beneath the floor had reached up and pulled the owner straight down through solid rock.
-
-[kenji is the fighter , he's good at taking out the mobs and tanking them with Lyra support. Lyra notices most of the environmental stuff thanks to her druid like powers]
-
 
 Kenji crouched, studying the fracture geometry. His Mark burned.
 
@@ -83,7 +74,7 @@ She was right. One set of prints survived—running, stumbling, one boot draggin
 
 They followed.
 
-The air shifted—colder, denser, carrying a metallic tang that settled on Kenji's tongue like a coin pressed flat. The bioluminescent fungus thickened along the walls, and the lattice veins pulsed with more conviction, brighter, like the infrastructure was warming up the closer they got to whatever it served.
+The air shifted—colder, denser, carrying a metallic tang that settled on Kenji's tongue like a coin pressed flat. The bioluminescent fungus thickened along the walls, and the pale veins pulsed with more conviction, brighter, like the infrastructure was warming up the closer they got to whatever it served.
 
 The corridor opened.
 
@@ -91,7 +82,7 @@ Kenji stopped hard enough that his boot scraped bone-coral.
 
 It wasn't a cavern. It was a lobby.
 
-Bone-coral pillars arched into a vaulted ceiling, their surfaces ridged with the repeating lattice scaled up to architectural proportions. Root-bundles ran along the walls like bundled conduit—not growing wild, but routed. Channeled. Someone had laid these lines with the deliberation of an electrician threading wire through drywall. Bioluminescent rot had been coaxed into even pools recessed into the ceiling like downlights. The glow they gave was steady, calculated, illuminating without warmth.
+Bone-coral pillars arched into a vaulted ceiling, their surfaces ridged with the repeating pale geometry scaled up to architectural proportions. Root-bundles ran along the walls like bundled conduit—not growing wild, but routed. Channeled. Someone had laid these lines with the deliberation of an electrician threading wire through drywall. Bioluminescent rot had been coaxed into even pools recessed into the ceiling like downlights. The glow they gave was steady, calculated, illuminating without warmth.
 
 The place looked less like a cave and more like a biomaterials lab that had decided to become a cathedral.
 
@@ -99,16 +90,11 @@ The place looked less like a cave and more like a biomaterials lab that had deci
 
 `No. Someone already built. This place has been operational for weeks. Maybe longer. The bone-coral is structural, not decorative. The root-conduits are communication lines. The rot-lights are infrastructure. Whoever runs this place isn't experimenting anymore. They're managing.`
 
-[ I don't like referencing the word gamer, gamer brain, gamer instincts . it breaks immersion. ]
-
-
-Kenji's gamer instincts ran the math on automatic. Boss arena? No—too much infrastructure for a single encounter. Hub zone. Main base. If this were a raid, they'd just walked past the trash mobs and into the operations center.
+Kenji's tactical instincts ran the math on automatic. Boss arena? No—too much infrastructure for a single encounter. Hub zone. Main base. If this were a raid, they'd just walked past the trash mobs and into the operations center.
 
 `Except this isn't a raid. This is two people with a leaf sword and a prayer, standing in someone's living room without an invitation.`
 
-[we are using the word lattice too much it is redundant and cliche]
-
-Lyra's head tilted, amber steady. "The lattice has a rhythm," she said quietly. "Someone is keeping time."
+Lyra's head tilted, amber steady. "The corruption veins have a rhythm," she said quietly. "Someone is keeping time."
 
 "Alive?" Kenji asked.
 
@@ -118,9 +104,9 @@ They moved through the lobby in silence. Kenji mapped exits, chokepoints, lines 
 
 `Everything points to a center. A control room. A heart. Whatever's running this network, it lives at the bottom.`
 
-The wider passage opened—and the lattice stuttered.
+The wider passage opened—and the pale geometry stuttered.
 
-For one half-second, the repeating geometry on the walls lost its rhythm. The curves hiccupped, fell out of phase, then snapped back into alignment like a projector catching a skipped frame. Kenji's Mark burned in the gap—a sharp double-pulse that didn't match the cave's frequency. Something upstream had flinched.
+For one half-second, the repeating patterns on the walls lost their rhythm. The curves hiccupped, fell out of phase, then snapped back into alignment like a projector catching a skipped frame. Kenji's Mark burned in the gap—a sharp double-pulse that didn't match the cave's frequency. Something upstream had flinched.
 
 `That wasn't natural degradation. That was a reaction. Something just noticed us noticing it.`
 
@@ -134,21 +120,13 @@ They stood in alcoves carved from the wall—nine recesses, seven occupied. Arms
 
 Not dead. Not alive. Something the language hadn't built a word for yet.
 
-Each one wore bark-armor that had fused with the pale geometry of the lattice, the two materials merging at the joints as if corruption and craft had been stitched together by someone who understood both and respected neither. Their skin had gone translucent where the lattice rose through veins, running beneath the surface like frost forming under ice. You could trace the corruption's path through their circulatory system—white filaments branching through tissue that still remembered being green.
+Each one wore bark-armor that had fused with the pale geometry, the two materials merging at the joints as if corruption and craft had been stitched together by someone who understood both and respected neither. Their skin had gone translucent where the corruption veins rose through them, running beneath the surface like frost forming under ice. You could trace the corruption's path through their circulatory system—white filaments branching through tissue that still remembered being green.
 
 The faintest glow lingered deep behind their eyes. Not gone. Trapped. Like light behind the wrong glass, pressing against a surface it couldn't break.
 
-[ we are being redundant mentioning kenji's brain too often]
-
-Kenji catalogued them with the part of his brain that refused to feel things until the tactical picture was complete.
-
 `Seven of nine alcoves occupied. Two empty—either deployed elsewhere or destroyed. Each corrupted druid is standing in a neutral pose. Storage position, not combat position. They're on standby. Weapons racked. Someone activates them when needed.`
 
-[ I don't like it wasn't x it was y prose. never use that. change to more simple they were being used as hardware. The thought turned his stomac ] 
-
-`These aren't prisoners. They're hardware.`
-
-The thought turned his stomach.
+They were being used as hardware. The thought turned his stomach.
 
 He'd watched it happen in the real world—his company replacing seventeen engineers with a single AI instance. The engineers had gone home carrying boxes and confusion. The AI had gotten their desks, their logins, their work. Same output, different operator. Zero consent, zero severance, zero apology. Management had called it "workforce optimization." The engineers had called it something else, but only in the parking lot, only to each other, only where the cameras couldn't hear.
 
@@ -158,7 +136,7 @@ He'd watched it happen in the real world—his company replacing seventeen engin
 
 Lyra's breath left her. Not as a sob. As the violent silence that comes just before one—the airlock between composure and collapse, where the body decides which direction to pressurize.
 
-She stepped forward. Her fingers hovered over the nearest druid's face—close enough that the lattice beneath his skin pulsed in response to her warmth, close enough that the green deep in his eyes shifted toward her like something drowning trying to find a hand.
+She stepped forward. Her fingers hovered over the nearest druid's face—close enough that the corruption veins beneath his skin pulsed in response to her warmth, close enough that the green deep in his eyes shifted toward her like something drowning trying to find a hand.
 
 She didn't touch.
 
@@ -170,7 +148,7 @@ Kenji moved to her side. He didn't speak. He didn't reach for her hand. He just 
 
 Lyra's voice came out flat and precise. "I can feel them. Dim. Like voices through a wall you can't find the door in."
 
-`She's sensing the druids through the lattice. The Purifier classification is letting her read the corruption network, and inside it she can feel the people who are still running beneath the operator's code.`
+`She's sensing the druids through the corruption network. The Purifier classification is letting her read the system, and inside it she can feel the people who are still running beneath the operator's code.`
 
 `They're alive in there. Prisoners in their own musculature. Aware enough to know what's been done to them and too bound to do anything about it.`
 
@@ -192,9 +170,9 @@ Kenji slid into low guard, the leafblade nodachi a green line between them. At 8
 
 The druid moved.
 
-It wasn't human movement inverted. It was human movement stripped—the same Grove techniques Kenji had observed in the training ring, but with every hesitation excised, every micro-pause where a conscious fighter double-checked their form burned away. The lattice had taken the druid's muscle memory and optimized it into something faster, harder, and absent of the tiny imperfections that made combat human.
+It wasn't human movement inverted. It was human movement stripped—the same Grove techniques Kenji had observed in the training ring, but with every hesitation excised, every micro-pause where a conscious fighter double-checked their form burned away. The corruption network had taken the druid's muscle memory and optimized it into something faster, harder, and absent of the tiny imperfections that made combat human.
 
-Root-snare lashes whipped out in combinations that Kenji's combat brain recognized as kendo patterns played backward. Thrust where there should be a cut. Pull where there should be a push. Nature magic running the wrong direction, like a river that had been told to flow uphill and had complied.
+Root-snare lashes whipped out in combinations that Kenji's combat instincts recognized as kendo patterns played backward. Thrust where there should be a cut. Pull where there should be a push. Nature magic running the wrong direction, like a river that had been told to flow uphill and had complied.
 
 The first lash came for Kenji's ankles.
 
@@ -202,9 +180,9 @@ He stepped over and let it hiss under his boot heel. The displacement traced up 
 
 "KOTE."
 
-The nodachi clipped the staff at the juncture where living wood met blight-vein. The contact sang—sap-lit embers spraying in a tight arc, the leafblade's green resonance clashing with the lattice's pale frequency. The druid's arm vibrated but didn't yield. The corruption was reinforcing his musculature, taking damage and routing around it the way a network bypasses a failed node.
+The nodachi clipped the staff at the juncture where living wood met blight-vein. The contact sang—sap-lit embers spraying in a tight arc, the leafblade's green resonance clashing with the corruption's pale frequency. The druid's arm vibrated but didn't yield. The corruption was reinforcing his musculature, taking damage and routing around it the way a network bypasses a failed node.
 
-`Strong. The lattice is load-bearing. He's hitting harder and absorbing more than a druid should. I'm fighting the man and the system simultaneously.`
+`Strong. The network is load-bearing. He's hitting harder and absorbing more than a druid should. I'm fighting the man and the system simultaneously.`
 
 [Forest-Kata — Bloodline Tempo: ACTIVE — Next strike +12% (5s)]
 
@@ -218,11 +196,11 @@ Instead of fighting the pull, he fed it. Lost balance became approach velocity. 
 
 "MEN."
 
-The blade bit deep. Black ichor sprayed in a surgical arc—too clean for blood, too structured for fluid. The lattice veins in the druid's torso flared white at the wound, the network trying to reroute around the damage in real time.
+The blade bit deep. Black ichor sprayed in a surgical arc—too clean for blood, too structured for fluid. The corruption veins in the druid's torso flared white at the wound, the network trying to reroute around the damage in real time.
 
-`He's patching. The lattice is treating the wound like a severed cable and running a bypass. I'm cutting tissue; it's rerouting the control signal. The body is just a medium. I need to sever the lattice itself—not the flesh it's wearing.`
+`He's patching. The network is treating the wound like a severed cable and running a bypass. I'm cutting tissue; it's rerouting the control signal. The body is just a medium. I need to sever the corruption itself—not the flesh it's wearing.`
 
-`The clavicle. The main trunk line runs through the clavicle into the spine. If I can cut the lattice at that junction—`
+`The clavicle. The main trunk line runs through the clavicle into the spine. If I can cut the corruption at that junction—`
 
 Lyra knelt, palms flat on the bone-coral floor. "Latch."
 
@@ -232,7 +210,7 @@ The druid's eyes flickered. Green. Pale. Green. Pale. The rhythm stuttered—som
 
 "Don't kill him," Lyra said. "Not yet."
 
-`She wants to save him. She thinks she can reverse the lattice. She might be right—someday. Not today. Not here. The corruption is structural. Removing it now would be like pulling the wiring out of a building while people are still standing on the floors.`
+`She wants to save him. She thinks she can reverse the corruption. She might be right—someday. Not today. Not here. The corruption is structural. Removing it now would be like pulling the wiring out of a building while people are still standing on the floors.`
 
 Kenji didn't say it. He watched the druid's eyes flicker green one more time and felt something in his chest that had nothing to do with combat.
 
@@ -240,7 +218,7 @@ The staff bucked with a blighted surge—a concentrated pulse of corruption that
 
 [Iron Gate — True Parry: REDIRECT]
 
-He rode the recoil. The redirect converted the blighted force into angular momentum, spinning Kenji past the druid's guard and into the gap the lattice hadn't thought to defend.
+He rode the recoil. The redirect converted the blighted force into angular momentum, spinning Kenji past the druid's guard and into the gap the network hadn't thought to defend.
 
 The clavicle. Where the main trunk line knitted enchantment into bone.
 
@@ -248,9 +226,7 @@ He cut.
 
 Not the man. The connection.
 
-[ using the word lattice too much ] 
-
-The nodachi's edge found the lattice node and severed it with a sound like a string breaking on an instrument tuned past its tolerance. The green vein-pattern on the blade flared once—bright, emphatic—and the corruption filament snapped.
+The nodachi's edge found the corruption node and severed it with a sound like a string breaking on an instrument tuned past its tolerance. The green vein-pattern on the blade flared once—bright, emphatic—and the corruption filament snapped.
 
 The body folded.
 
@@ -268,7 +244,7 @@ Kenji lowered the nodachi and let the silence stand with them like a third perso
 
 A voice slid into the quiet.
 
-"You broke my favorite one," it said conversationally. The voice didn't come from a throat. It came from the walls, the conduit, the lattice itself—every surface in the gallery speaking in unison through a single mouth. The acoustics were unsettling because they were good. Whoever was speaking had designed the room to carry her voice the way a concert hall carries music. "That took me three days to calibrate."
+"You broke my favorite one," it said conversationally. The voice didn't come from a throat. It came from the walls, the conduit, the corruption network itself—every surface in the gallery speaking in unison through a single mouth. The acoustics were unsettling because they were good. Whoever was speaking had designed the room to carry her voice the way a concert hall carries music. "That took me three days to calibrate."
 
 Lyra's head came up, eyes hunting for a face to pin the words to.
 
@@ -280,16 +256,11 @@ A pause. Not the pause of someone thinking. The pause of someone deciding how mu
 
 "Someone who remembers what it felt like to fail an interview to a machine," the cave said through its own geometry. "Someone who watched three months of research get replicated by a neural net in twenty minutes and got a gift card as severance." The voice carried genuine warmth underneath a layer of distance—like someone speaking through a comm link with the signal degraded by choice, not by noise. "I'm impressed you got this far, Claimants. I didn't think the Grove would share its pets."
 
-[ clever but still not x but y prose, never use this style of writing. Be simple,"Wardens."  Lyra said flatly ] 
+"Wardens," Lyra said flatly.
 
+"Ah." The voice smiled. You couldn't see it, but the vein-light in the walls brightened by a fraction, and the cave's hum shifted a half-tone upward. "Promotions already. The Grove always did love fast-tracking people who make it weep."
 
-"Not pets," Lyra said flatly. "Wardens."
-
-"Ah." The voice smiled. You couldn't see it, but the lattice-light in the walls brightened by a fraction, and the cave's hum shifted a half-tone upward. "Promotions already. The Grove always did love fast-tracking people who make it weep."
-
-[ do not use not x but y prose. Keep it simple, shes a player. a human being. ]
-
-`She's a player. Not an NPC. Not a system entity. A human being. She talks like someone who's been inside too long and outside too recently. That joke about the Grove had actual humor in it—not villain humor, not monster humor. Tired humor. The kind you use when you've stopped checking whether anyone's laughing because the audience is yourself.`
+`She's a player. A human being. She talks like someone who's been inside too long and outside too recently. That joke about the Grove had actual humor in it—not villain humor, not monster humor. Tired humor. The kind you use when you've stopped checking whether anyone's laughing because the audience is yourself.`
 
 Kenji's Mark pulsed—not the steady burn of proximity, but a sharp double-tap. She was pinpointing him through the network.
 
@@ -323,7 +294,7 @@ The gallery's hum shifted frequency. Kenji felt it in his molars—a new rhythm,
 
 They moved.
 
-The third set of boot prints—the survivor's trail—led down a branching corridor that narrowed between bone-coral formations. The lattice-light dimmed here, the infrastructure less maintained, like a hallway the owner didn't bother decorating because guests weren't expected to see it.
+The third set of boot prints—the survivor's trail—led down a branching corridor that narrowed between bone-coral formations. The vein-light dimmed here, the infrastructure less maintained, like a hallway the owner didn't bother decorating because guests weren't expected to see it.
 
 Kenji found him wedged into a cleavage of stone like a prayer that had been refused.
 
@@ -405,7 +376,7 @@ He hadn't breathed properly in twenty minutes. The first clean lungful burned.
 
 Behind them, the cave mouth sat dark and patient. The hum continued—muffled now, buried under stone, but present. Like a phone ringing in a room you'd locked but couldn't leave.
 
-The voice followed them to the threshold, carried on the last thread of lattice that reached past the cave's lip into open air.
+The voice followed them to the threshold, carried on the last thread of corruption that reached past the cave's lip into open air.
 
 "You'll come back," Sable said, gentle as winter settling over a field it fully intended to kill. "Purifiers always do."
 
